@@ -26,7 +26,7 @@ body {
     url('bg-pattern-dark.png');
   background-repeat: repeat;
   background-size: 100% 100%, 30% 30%, 100% 100%;
-  min-height: 110rem;
+  height: 70rem;
 }
 
 header {
@@ -283,6 +283,10 @@ ol {
   color: #23221f;
   font: inherit;
   margin-top: 1.5rem;
+}
+.footer{
+  text-align: center;
+  color: #3f3b00;
 }
 
 @keyframes slide-in-from-left {
